@@ -29,6 +29,7 @@ PLUGIN_SPOTTY_HOME
 	HU	Kezdő
 
 PLUGIN_SPOTTY_HOME_EXTRA_HOME
+	CS	Osobní
 	DA	Forside
 	DE	Startseite
 	EN	Personal
@@ -436,6 +437,7 @@ PLUGIN_SPOTTY_TOP_TRACKS
 	SV	Toppspår
 
 PLUGIN_SPOTTY_HOME_EXTRA_POPULAR_PLAYLISTS
+	CS	Populární seznamy skladeb
 	DE	Populäre Wiedergabelisten
 	EN	Popular Playlists
 	FR	Listes de lecture populaires
@@ -1065,7 +1067,6 @@ PLUGIN_SPOTTY_SHOWS
 	ES	Podcasts
 	FI	Podcast-lähetykset
 	FR	Podcasts
-	HE	פריטי Podcast
 	HU	Podcastok
 	IT	Podcast
 	NL	Podcasts
